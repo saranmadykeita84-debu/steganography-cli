@@ -1,8 +1,7 @@
 # Travail Pratique #3: Stéganographie 
 
-## Auteurs
-- Code permanent DIAT10010001, nom DIALLO, prénom THIERNO RASSID
-- Code permanent KEIS02060000, nom KEITA, prénom SARAN MADY
+## Auteur
+- Nom KEITA, prénom SARAN MADY
 
 ## Compatibilité 
 Langage – version < Python -- version  3.8 --> 
